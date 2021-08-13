@@ -3,6 +3,7 @@
 Zadaci vezani za predmet druge godine Matematickog fakulteta u Beogradu, smer Informatika
 profesorka: Vesna Marinkovic
 asistent: Strahinja Stanojevic
+
 Teme:
 _Prefiksno, segmentno i fenvikovo drvo_
 _DFS i BFS obilazak grafa_
